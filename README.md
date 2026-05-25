@@ -94,7 +94,7 @@ Currently focused on:
 `Tableau`
 `SQL`
 
-🔗 Repository → [Coming Soon]
+🔗 Repository → [Coming Soon - In Progress]
 
 ---
 
