@@ -75,7 +75,7 @@ Currently focused on:
 `NLP`
 `JSON`
 
-🔗 Repository → [Coming Soon]
+🔗 Repository → [https://github.com/vriley31/AI-Used-Car-Lead-Generation-Assistant]
 
 ---
 
