@@ -182,11 +182,7 @@ Currently focused on:
 
 ## Connect With Me
 
-LinkedIn → [Add Link]
-
-Portfolio → [Add Link]
-
-Email → yourprofessionalemail@email.com
+Email → vriley31@email.com
 
 ---
 
