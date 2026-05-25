@@ -2,7 +2,7 @@
 
 # Hi, I'm Victoria Riley 👋
 
-### Marketing Systems Administrator • Data Analytics • Applied AI • Predictive Modeling
+###  • Data Analytics • Applied AI • Predictive Modeling
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Turning+Data+Into+Decisions;Building+Analytics+That+Drive+Business+Impact;Marketing+Automation+%7C+Machine+Learning+%7C+Data+Storytelling" />
 
