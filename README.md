@@ -1,95 +1,199 @@
-# **Data Analyst | Predictive Modeling**
+<div align="center">
 
-## **Education**
-●	Bachelor of Business Administration in Marketing, Davenport University, Grand Rapids
+# Hi, I'm Victoria Riley 👋
 
-●	Master of Science in Information Technology/Analytics, Capella University                    
+### Marketing Systems Administrator • Data Analytics • Applied AI • Predictive Modeling
 
-## **Certifications**
-Microsoft Office Specialist – Excel 2016 06/2019 | Junior Data Analyst via Coursera 06/2023 | University of Texas McCombs at Austin Data Science Post Graduate Program 09/2023	 | Google Data Analytics via Coursera 12/2023 
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Turning+Data+Into+Decisions;Building+Analytics+That+Drive+Business+Impact;Marketing+Automation+%7C+Machine+Learning+%7C+Data+Storytelling" />
 
-**Languages:**
-Python | SQL | SAS | HTML
+</div>
 
-**Tools:**
-Tableau
-Power BI
-Google Colab
-Marketo
-BigQuery
-VS Code
-Oracle
-Jupyter
+---
 
-**Core Areas:**
-Machine Learning
-Predictive Analytics
-Database Design
-Marketing Automation
-NLP
-Visualization
+## About Me
 
-### **Relevant Work Experience**
-Advia Credit Union–Kalamazoo, MI
+I build data solutions that connect business strategy with analytics.
 
-**Marketing Systems Administrator & Analyst  **                                                                         January 2025 – January 2026
+My background combines **marketing systems, predictive analytics, machine learning, automation, and executive reporting** to solve real business problems.
 
-•	Leveraged data analytics and AI tools to optimize marketing automation workflows.
-•	Built and improved predictive models to identify high conversion leads and improve campaign performance within the 2% to 5% monthly goal.
-•	Conducted data mining and segmentation to refine lead scoring, nurture programs, and sales funnel targeting.
-•	Designed interactive dashboards and A/B test analyses to visualize campaign insights and drive decision-making using PowerBI and Tableau to fit each department needs. 
-•	Partnered with IT and data teams to maintain data integrity, regulatory compliance (BSA, OFAC, Patriot Act), and reporting accuracy.
-•	Explored AI-driven personalization techniques to improve engagement through automation and analytics.
-•	Mined customer data to support campaign initiatives for individual product needs.
-•	Cleaned and validated data for 270,000 accounts using Microsoft Excel to ensure data accuracy and integrity.
-•	Built and tested product scoring models to support the sales team with improving conversion rates.
+Currently focused on:
 
-Behler-Young-Grand Rapids, MI                                                                                                                    March 2021 – May 2024
-**
-Marketing Assistant & Analyst**
-•	Extracted data from internal software to create reports in Excel for monthly promotions by filtering, sorting, and pivot tables to present to stakeholders.
-•	Worked with Marketing to analyze product performance to create pricing and sales promotions. 
-•	Maintained and cleaned inaccurate customer information for over 700 accounts with Microsoft Excel.
-•	Utilized internal software to track inventory and pricing analytics.
-•	Developed reports that outlined data from promotions results for vendors via PowerPoint and Tableau.
-•	Collaborated with the IT department to assist with implementation for a cloud-based ERP system (to track inventory) for the marketing department by properly mapping channels using SQL and basic Python code. 
-•	Evaluated competition for sales, marketing, and pricing trends with the goal of increasing market growth by 3-5% per month. 
+📊 Data Analytics  
+🤖 Applied AI & NLP  
+📈 Predictive Modeling  
+🏦 Financial Services Analytics  
+⚡ Marketing Automation  
+🧠 Data Storytelling
 
+---
 
-### **Projects**
-  Credit Union Loan Conversion Prediction
-  Repository:
+## Tech Stack
 
-  Description:
-  Predict probability of members accepting loan offers.
+### Languages
 
-Skills:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![SAS](https://img.shields.io/badge/SAS-005CAA?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge)
 
-  Python
-  Logistic Regression
-  Tableau
+---
 
-Structure:
-  data/
-  model/
-  notebooks/
-  dashboard/
+### Analytics & Visualization
 
-Example:
-from sklearn.linear_model import LogisticRegression
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge)
 
-model=LogisticRegression()
+---
 
-model.fit(X_train,y_train)
+### Marketing Technology
 
-pred=model.predict(X_test)
+![Marketo](https://img.shields.io/badge/Marketo-5C4C9F?style=for-the-badge)
+![CRM](https://img.shields.io/badge/CRM-0089D6?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-1E88E5?style=for-the-badge)
 
-Metrics:
+---
 
-Accuracy
-ROC AUC
-Precision
-Recall
+# Featured Projects
 
-Business Impact:
-Improve campaign targeting.
+---
+
+## 🚗 AI Used Car Lead Generation Assistant
+
+> AI-powered chatbot concept designed to improve lead conversion and customer engagement.
+
+### Highlights
+✔ Intent Classification  
+✔ NLP Processing  
+✔ SQLite Database  
+✔ Context-Aware Responses  
+
+**Tech**
+`Python`
+`SQLite`
+`NLP`
+`JSON`
+
+🔗 Repository → [Coming Soon]
+
+---
+
+## 🏦 Credit Union Member Conversion Prediction
+
+> Predictive analytics project identifying members likely to accept loan offers.
+
+### Highlights
+✔ Logistic Regression  
+✔ Feature Engineering  
+✔ Campaign Optimization  
+✔ Conversion Insights  
+
+**Tech**
+`Python`
+`Tableau`
+`SQL`
+
+🔗 Repository → [Coming Soon]
+
+---
+
+## 🏥 Healthcare KPI Diagnostic Analytics
+
+> Diagnostic analytics solution evaluating falls and pressure ulcer KPIs.
+
+### Highlights
+✔ KPI Analysis  
+✔ Executive Dashboard  
+✔ Healthcare Insights  
+
+**Tech**
+`Python`
+`Tableau`
+
+🔗 Repository → [Coming Soon]
+
+---
+
+## ✈ Aviation Bird Strike Risk Dashboard
+
+> Interactive risk dashboard combining airport and incident datasets.
+
+### Highlights
+✔ Geographic Visualization  
+✔ Risk Scoring  
+✔ Trend Analysis  
+
+**Tech**
+`Tableau`
+`Python`
+
+🔗 Repository → [Coming Soon]
+
+---
+
+## 📧 Marketing Automation Intelligence
+
+> Data-driven lifecycle marketing and campaign optimization.
+
+### Highlights
+✔ Lead Scoring  
+✔ Funnel Analytics  
+✔ CRM Integration  
+✔ Automated Reporting  
+
+**Tech**
+`Marketo`
+`SQL`
+`Dashboarding`
+
+🔗 Repository → [Coming Soon]
+
+---
+
+## 📚 Current Learning
+
+- Advanced Predictive Analytics
+- Applied Machine Learning
+- NLP Applications
+- Data Engineering Concepts
+- Production Analytics Workflows
+
+---
+
+## Portfolio Philosophy
+
+> Good analytics does more than explain what happened.  
+> Great analytics changes what happens next.
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact"/>
+
+</div>
+
+---
+
+## Connect With Me
+
+LinkedIn → [Add Link]
+
+Portfolio → [Add Link]
+
+Email → yourprofessionalemail@email.com
+
+---
+
+<div align="center">
+
+### Thanks for visiting my portfolio.
+
+Data + Strategy + Execution
+
+</div>
