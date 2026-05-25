@@ -166,17 +166,6 @@ Currently focused on:
 > Good analytics does more than explain what happened.  
 > Great analytics changes what happens next.
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vriley&show_icons=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vriley&layout=compact"/>
-
-</div>
 
 ---
 
