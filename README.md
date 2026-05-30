@@ -132,20 +132,27 @@ Currently focused on:
 
 ---
 
-## 📧 Marketing Automation Intelligence
+## 📧 # SMS Spam Text Analytics Project
 
-> Data-driven lifecycle marketing and campaign optimization.
+## Project Overview
+This project uses the SMS Spam Collection dataset to apply text analytics, clustering, and predictive modeling. The goal is to analyze SMS messages and identify patterns that separate spam messages from legitimate ham messages.
 
-### Highlights
-✔ Lead Scoring  
-✔ Funnel Analytics  
-✔ CRM Integration  
-✔ Automated Reporting  
+## Tools Used
+- Python
+- Google Colab
+- Pandas
+- Scikit-learn
+- Matplotlib
+- TF-IDF Vectorization
+- K-Means Clustering
+- Naive Bayes Classification
 
-**Tech**
-`Marketo`
-`SQL`
-`Dashboarding`
+## Project Goals
+- Clean and prepare SMS text data
+- Convert text into numerical features using TF-IDF
+- Create text clusters using K-Means
+- Build a predictive model to classify spam and ham messages
+- Evaluate model performance using accuracy, classification report, and confusion matrixg  
 
 🔗 Repository → [Coming Soon]
 
