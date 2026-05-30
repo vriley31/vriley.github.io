@@ -154,7 +154,7 @@ This project uses the SMS Spam Collection dataset to apply text analytics, clust
 - Build a predictive model to classify spam and ham messages
 - Evaluate model performance using accuracy, classification report, and confusion matrixg  
 
-🔗 Repository → [Coming Soon]
+🔗 Repository → https://github.com/vriley31/SMS-Spam-Text-Analytics-Project/tree/main
 
 ---
 
