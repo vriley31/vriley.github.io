@@ -98,7 +98,7 @@ Currently focused on:
 
 ---
 
-## 🏥 Healthcare KPI Diagnostic Analytics
+## 🏥 Healthcare Length of Stay Regression Model
 
 > Diagnostic analytics solution evaluating falls and pressure ulcer KPIs.
 
@@ -111,7 +111,7 @@ Currently focused on:
 `Python`
 `Tableau`
 
-🔗 Repository → [Coming Soon]
+🔗 Repository → https://github.com/vriley31/Healthcare-KPI-Diagnostic-Analytics
 
 ---
 
