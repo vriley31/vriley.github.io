@@ -75,7 +75,7 @@ Currently focused on:
 `NLP`
 `JSON`
 
-🔗 Repository → [https://github.com/vriley31/AI-Used-Car-Lead-Generation-Assistant]
+🔗 Repository → [Coming Soon]
 
 ---
 
@@ -94,7 +94,7 @@ Currently focused on:
 `Tableau`
 `SQL`
 
-🔗 Repository → [https://github.com/vriley31/Personal-Loan-Prediction-Model]
+🔗 Repository → https://github.com/vriley31/Personal-Loan-Prediction-Model
 
 ---
 
