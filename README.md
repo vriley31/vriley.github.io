@@ -94,7 +94,7 @@ Currently focused on:
 `Tableau`
 `SQL`
 
-🔗 Repository → [Coming Soon - In Progress]
+🔗 Repository → [https://github.com/vriley31/Personal-Loan-Prediction-Model]
 
 ---
 
