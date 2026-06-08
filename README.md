@@ -157,6 +157,23 @@ This project uses the SMS Spam Collection dataset to apply text analytics, clust
 🔗 Repository → https://github.com/vriley31/SMS-Spam-Text-Analytics-Project/tree/main
 
 ---
+### ✈️ Flight Delay Prediction Using Multiple Linear Regression
+
+> Predictive analytics project analyzing airline operational and environmental factors that contribute to arrival delays.
+
+#### Highlights
+
+✔ Multiple Linear Regression  
+✔ SAS Studio Analytics  
+✔ Data Exploration & Correlation Analysis  
+✔ Train-Test Data Splitting  
+✔ Residual & Assumption Testing  
+✔ Operational Performance Insights
+
+**Tech** `SAS` `Regression Analysis` `Predictive Analytics` `Statistics`
+
+🔗 **Repository →** https://github.com/vriley31/Flight-Delay-Prediction-Regression-Model
+
 
 ## 📚 Current Learning
 
