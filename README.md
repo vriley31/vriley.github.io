@@ -79,9 +79,9 @@ Currently focused on:
 
 ---
 
-## 🏦 Credit Union Member Conversion Prediction
+## 🏦 Personal Bank Loan Conversion Prediction
 
-> Predictive analytics project identifying members likely to accept loan offers.
+> Predictive analytics project identifying customers likely to accept loan offers.
 
 ### Highlights
 ✔ Logistic Regression  
