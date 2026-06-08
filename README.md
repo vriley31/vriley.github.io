@@ -172,7 +172,7 @@ This project uses the SMS Spam Collection dataset to apply text analytics, clust
 
 **Tech** `SAS` `Regression Analysis` `Predictive Analytics` `Statistics`
 
-🔗 **Repository →** https://github.com/vriley31/Flight-Delay-Prediction-Regression-Model
+🔗 **Repository → https://github.com/vriley31/Flight-Delay-Prediction-Multiple-Regression-Model
 
 
 ## 📚 Current Learning
